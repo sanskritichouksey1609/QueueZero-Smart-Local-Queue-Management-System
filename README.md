@@ -31,9 +31,14 @@ http://localhost:8080/QueueZero/
 
 Tech Stack / Software Dependencies:
 
-Frontend: HTML, CSS, JavaScript
-Backend: Java Servlets, JSP
-Database: MySQL
-Connectivity: JDBC
-Server: Apache Tomcat
-IDE: NetBeans
+1.Frontend: HTML, CSS, JavaScript
+
+2.Backend: Java Servlets, JSP
+
+3.Database: MySQL
+
+4.Connectivity: JDBC
+
+5.Server: Apache Tomcat
+
+6.IDE: NetBeans
